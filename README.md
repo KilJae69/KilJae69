@@ -41,7 +41,7 @@ As the creator of this site and a budding web developer, I plan to continually e
 
 
 Discover the serene beauty of mandala art and the passion behind each creation at [https://www.dotsart.ba.]  
-GitHub Repository: [Link to your GitHub project]  
+GitHub Repository: https://github.com/KilJae69/dotsArt.git  
 
 2. **To be continued.....**
 
